@@ -1,0 +1,1 @@
+Each project in this repository is in a separate folder, and within each of these folders, there is a README file providing information about the project and offering specific instructions on how to run it.
