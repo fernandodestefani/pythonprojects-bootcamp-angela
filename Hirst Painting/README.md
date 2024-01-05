@@ -1,6 +1,6 @@
 # Hirst Painting Simulator
 
-This Hirst Painting Simulator utilizes the Turtle graphics library to create a vibrant artwork inspired by Damien Hirst's famous spot paintings. Developed with an interactive interface, this script showcases the beauty of generative art using random colors.
+This Hirst Painting Simulator utilizes the Turtle graphics library to create a vibrant artwork inspired by Damien Hirst's famous spot paintings. Developed with an interactive interface, this script showcases the beauty of generative art using random colors. It was was developed during Angela Yu's "100 Days of Code" bootcamp.
 
 ## How to Create Your Own Masterpiece
 

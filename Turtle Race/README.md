@@ -1,6 +1,6 @@
 # Turtle Race Betting Game
 
-Experience the excitement of a virtual turtle race with the Turtle Race Betting Game! This interactive script allows you to place bets on different-colored turtles and witness the thrilling race unfold.
+Experience the excitement of a virtual turtle race with the Turtle Race Betting Game! This interactive script allows you to place bets on different-colored turtles and witness the thrilling race unfold. It was was developed during Angela Yu's "100 Days of Code" bootcamp.
 
 ## How to Place Your Bet
 
