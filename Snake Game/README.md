@@ -1,6 +1,6 @@
 # Snake Game with Scoreboard
 
-Immerse yourself in the classic Snake Game, enhanced with a graphical interface, an object-oriented structure, and score persistence in a Python text file!
+Immerse yourself in the classic Snake Game, enhanced with a graphical interface, an object-oriented structure, and score persistence in a Python text file! It was was developed during Angela Yu's "100 Days of Code" bootcamp.
 
 ## How to Play
 
