@@ -16,3 +16,4 @@ Score Persistence
 Your final score is displayed at the end of the quiz. Compete against yourself or others to achieve the highest score! The quiz leverages the Open Trivia Database API to fetch diverse and challenging questions for an exciting experience.
 
 Experience the thrill of the Quiz Game with a graphical interface, and challenge your knowledge with random questions from the Open Trivia Database. Run the script, answer the questions, and see how well you can score! Have fun!
+Remember to protect your API keys, credentials, and other sensitive information by using environment variables and ensuring they are not exposed in public repositories.
