@@ -1,6 +1,8 @@
 # Stock News Notifier
 Stay informed about stock market changes and relevant news with this Python script. The script fetches daily stock data from Alpha Vantage and checks for significant changes. If the percentage difference in the closing prices is less than 5%, it also retrieves top news articles related to the specified company from News API. Notifications are then sent via SMS using Twilio.
 
+![rain_alert_stock_trade](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/7f15933a-820c-4ce5-a81d-5cc718516468)
+
 ## How to Use
 Obtain API Keys:
 Sign up on Alpha Vantage and News API to get your API keys.
