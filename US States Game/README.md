@@ -2,6 +2,8 @@
 
 Dive into the U.S. States Game, an interactive challenge to guess the names of all 50 states! This Python program utilizes the Turtle graphics library for visualization and the powerful Pandas library for data manipulation. The game prompts the user to guess state names, marking correct guesses on the U.S. map. It was developed during Angela Yu's Bootcamp.
 
+![states_game](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/8100ee49-279f-4a2b-a3d3-9c4303694e75)
+
 ## How to Play
 
 1. Run the script in a Python environment.
