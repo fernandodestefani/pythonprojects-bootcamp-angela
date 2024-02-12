@@ -1,6 +1,8 @@
 # Quiz Game with Score Tracker
 Dive into a challenging Quiz Game powered by an Open Trivia Database API, featuring a graphical user interface, object-oriented design, and score persistence in a Python script! This project was developed as part of Angela Yu's "100 Days of Code" bootcamp.
 
+![quizzler](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/27b1ccc0-05c6-478e-9a83-e83f55a9a8cb)
+
 ## How to Play
 Run the script in a Python environment.
 Answer a series of True/False questions presented on the graphical user interface.
