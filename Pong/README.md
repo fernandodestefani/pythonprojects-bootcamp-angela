@@ -2,6 +2,8 @@
 
 Dive into the classic Pong Game with an updated graphical interface, two paddles, and a bouncing ball! This Python implementation uses Turtle graphics and incorporates a scoreboard for keeping track of scores. This project is part of Angela Yu's Python Bootcamp
 
+![pong](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/38e8f8a7-e231-436d-a128-276ece4d0696)
+
 ## How to Play
 
 1. Run the script in a Python environment.
