@@ -2,6 +2,8 @@
 
 Master a new language effortlessly with the Flashy Vocabulary Learning App. Use this Tkinter-based application to enhance your vocabulary and make language learning an enjoyable experience. It was developed during Angela Yu's Bootcamp.
 
+![flashy](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/7eda20bf-c1f4-47f2-937d-18ffb2a35abe)
+
 ## Features
 
 - **Interactive Flashcards:** Learn new words through interactive flashcards.
