@@ -2,6 +2,8 @@
 
 Immerse yourself in the classic Snake Game, enhanced with a graphical interface, an object-oriented structure, and score persistence in a Python text file! It was was developed during Angela Yu's "100 Days of Code" bootcamp.
 
+![snake_game](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/ca5a5177-310a-4b1b-8d96-c0feec815450)
+
 ## How to Play
 
 1. Run the script in a Python environment.
