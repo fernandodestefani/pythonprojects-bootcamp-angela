@@ -1,6 +1,8 @@
 # Weather Reminder with SMS Notifications
 Stay ahead of the weather with this Python script that sends you SMS notifications if rain is expected. The script uses OpenWeatherMap API to retrieve weather information based on the provided latitude and longitude. If rain is in the forecast for the next 12 hours, you'll receive a timely reminder.
 
+![rain_alert_stock_trade](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/25adf2c0-f4af-4eeb-ae8a-95f8c3166acd)
+
 ## How to Use
 Obtain API Key: Sign up on OpenWeatherMap and get your personal API key.
 
