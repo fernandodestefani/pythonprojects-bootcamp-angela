@@ -2,6 +2,8 @@
 
 Experience the Pomodoro Technique with this timer application! Built using Tkinter, the Python GUI library, this app helps you manage work and break intervals efficiently. It was developed during Angela Yu's Bootcamp.
 
+![pomodoro](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/506d3a9b-83ca-4c83-bc16-95cb0d7c5d38)
+
 ## Features
 
 - **Visual Countdown:** A visually appealing timer with a tomato image.
