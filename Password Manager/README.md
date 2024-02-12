@@ -2,6 +2,8 @@
 
 Secure your passwords effortlessly with the Password Manager application built using Tkinter, the Python GUI library. Manage and retrieve passwords securely for your various accounts. It was developed during Angela Yu's Bootcamp.
 
+![password_manager](https://github.com/fernandodestefani/DevJourneyPortfolio/assets/155449551/327bc8db-f5c3-49de-8ec4-d99ae97fcc19)
+
 ## Features
 
 - **Password Generator:** Generate secure passwords with a mix of letters, numbers, and symbols.
