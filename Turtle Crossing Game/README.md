@@ -21,3 +21,4 @@ Immerse yourself in the Turtle Crossing Game, a thrilling adventure where you gu
 
 Embark on a thrilling journey through the Turtle Crossing Game, where quick reflexes and strategic moves lead to success. Run the script and enjoy the game while leveling up and increasing your score!
 
+<img src="https://github.com/user-attachments/assets/f496341b-ff48-43e0-baa2-d06d364dda03" alt="Turtle Crossing Game" width="400"/>
