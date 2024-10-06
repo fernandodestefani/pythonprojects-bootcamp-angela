@@ -20,3 +20,5 @@ Dive into the classic Pong Game with an updated graphical interface, two paddles
 - **Scoreboard:** Keep track of the score for both players with a stylish scoreboard.
 
 Rediscover the joy of Pong with an enhanced graphical interface, two paddles, and a lively scoreboard. Whether playing solo or with a friend, this Python implementation brings back the classic Pong excitement. Run the script and enjoy the game!
+
+<img src="https://github.com/user-attachments/assets/38b7bf08-d079-4ce9-b482-de3458e39da9" alt="Pong" width="400"/>
