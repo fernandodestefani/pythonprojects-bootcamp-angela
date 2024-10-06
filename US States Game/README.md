@@ -20,3 +20,5 @@ Dive into the U.S. States Game, an interactive challenge to guess the names of a
 - **Progress Tracking:** Monitor the number of correct guesses out of 50.
 
 Challenge yourself with the U.S. States Game, combining Turtle graphics for visualization and Pandas for efficient data handling. Guess the states, enjoy the learning process, and explore the capabilities of Pandas in managing and analyzing data.
+
+<img src="https://github.com/user-attachments/assets/3c77baa3-b8e0-4cd9-99d5-299d531f97b1" alt="The UStates Game" width="400"/>
