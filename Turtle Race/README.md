@@ -12,4 +12,4 @@ Experience the excitement of a virtual turtle race with the Turtle Race Betting 
 4. Watch as the turtles race across the screen, with the winning turtle's color revealed at the end.
 5. Find out if your bet was successful and enjoy the virtual race experience!
 
-![Turtle Race](https://github.com/user-attachments/assets/b45577eb-cfd7-4070-b486-264367bdc14d)
+<img src="https://github.com/user-attachments/assets/b45577eb-cfd7-4070-b486-264367bdc14d" alt="Turtle Race" width="400"/>
