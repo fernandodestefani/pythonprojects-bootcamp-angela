@@ -18,3 +18,5 @@ Master a new language effortlessly with the Flashy Vocabulary Learning App. Use 
 4. The app will automatically progress to the next word.
 
 Make language learning fun and effective with the Flashy Vocabulary Learning App. Enhance your vocabulary and progress in your language journey.
+
+![Flashy Canada Official Languages](https://github.com/user-attachments/assets/cfaed57f-59f3-462d-80ba-4bb0def89373)
