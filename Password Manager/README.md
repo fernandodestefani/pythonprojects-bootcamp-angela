@@ -19,3 +19,5 @@ Secure your passwords effortlessly with the Password Manager application built u
 4. Use the "Search" button to retrieve passwords for a specific website.
 
 Enhance your password security and organization with the Password Manager Application. Utilize the Tkinter GUI to create and retrieve strong passwords effortlessly.
+
+![Password Manager](https://github.com/user-attachments/assets/f311c2ff-fce2-4ee3-aec3-427c026e5e1b)
