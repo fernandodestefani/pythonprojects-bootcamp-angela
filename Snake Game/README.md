@@ -24,4 +24,4 @@ Your high score is saved in a text file (`data.txt`). If you beat your high scor
 
 Experience the thrill of the Snake Game with a graphical interface and compete for the top score! Run the script, control the snake, and enjoy the classic gameplay with a modern twist. Have fun!
 
-![My Snake Game](https://github.com/user-attachments/assets/340b9cc1-3c3d-4be6-9b18-f73246cd3c26)
+<img src="https://github.com/user-attachments/assets/340b9cc1-3c3d-4be6-9b18-f73246cd3c26" alt="My Snake Game" width="400"/>
