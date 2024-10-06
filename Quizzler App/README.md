@@ -19,3 +19,5 @@ Your final score is displayed at the end of the quiz. Compete against yourself o
 
 Experience the thrill of the Quiz Game with a graphical interface, and challenge your knowledge with random questions from the Open Trivia Database. Run the script, answer the questions, and see how well you can score! Have fun!
 Remember to protect your API keys, credentials, and other sensitive information by using environment variables and ensuring they are not exposed in public repositories.
+
+<img src="https://github.com/user-attachments/assets/10d34559-e7b8-45cf-b905-7be86ddcec1a" alt="Quizzler" width="400"/>
