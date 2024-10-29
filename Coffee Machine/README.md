@@ -1,4 +1,4 @@
-# Coffee Machine Simulator
+# Coffee Machine Simulator ☕
 
 This Coffee Machine Simulator, developed from the perspective of object-oriented programming, is part of Angela Yu's "100 Days of Code" bootcamp. Experience the functionality of a virtual coffee machine, where you can choose from a menu, make payments, and enjoy your favorite drinks.
 
