@@ -28,7 +28,7 @@ Each project is stored in its **own folder**, containing a dedicated README file
 
 - A project description  
 - Instructions to run the code  
-- Screenshots or GIFs demonstrating functionality (if applicable)  
+- **✨ Screenshots or GIFs ✨** demonstrating functionality (if applicable)  
 
 ---
 
