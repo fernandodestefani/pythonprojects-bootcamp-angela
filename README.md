@@ -3,9 +3,13 @@
 A collection of Python projects developed throughout the **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.  
 These projects showcase real-world Python concepts, tools, and best practices.
 
-Check out this project in action below! 👇
+Check out some projects in action below!! 👇
 <p>
   <img src="https://github.com/user-attachments/assets/02823490-e086-420c-a148-f079682cae94" alt="Quizzler" width="400"/>
+</p>
+
+<p>
+  <img src="https://github.com/user-attachments/assets/3c77baa3-b8e0-4cd9-99d5-299d531f97b1" alt="The UStates Game" width="400"/>
 </p>
 
 ---
